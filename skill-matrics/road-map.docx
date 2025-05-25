@@ -1,0 +1,23 @@
+Fundamentals
+| Experience Area                   | Expectations                                                               |
+| --------------------------------- | -------------------------------------------------------------------------- |
+| **Post-Si Test Plan Development** | Defining and executing validation plans for new silicon                    |
+| **Board-Level Debug**             | Debugging using schematics, layout, and board-level tools                  |
+| **Toolchain Familiarity**         | Use of SVN/Git, Jira, Jenkins, etc. for validation automation and tracking |
+
+Core validation skills
+| Skill                                               | Resources                                                       |
+| --------------------------------------------------- | --------------------------------------------------------------- |
+| **Python for Automation**                           | "Automate the Boring Stuff with Python", Leetcode (easy-medium) |
+| **Debug Tools: Oscilloscope, JTAG, Logic Analyzer** | Tektronix training videos, Saleae Logic tutorials               |
+| **Protocol Knowledge: PCIe, USB, DDR, SPI, I2C**    | All About Circuits, MindShare books                             |
+| **Linux Device Drivers**                            | LDD3 (Linux Device Drivers, free PDF), Linux Kernel Labs        |
+| **U-Boot, BIOS, Firmware Basics**                   | Bootlin training, Intel BIOS developer guides                   |
+
+Applied learning and projects
+| Project Ideas                     | Description                                                                         |
+| --------------------------------- | ----------------------------------------------------------------------------------- |
+| ✅ **Raspberry Pi Debug Platform** | Use a Pi to validate communication with peripherals (UART, I2C, SPI)                |
+| ✅ **PCIe Endpoint Emulator**      | Build a testbench using FPGA or software simulation to validate PCIe signals        |
+| ✅ **Embedded System Bring-Up**    | Port and boot Linux on a custom or virtual ARM board                                |
+| ✅ **Post-Si Test Plan** (Mock)    | Create a test plan for a hypothetical SoC with block diagrams and validation points |
